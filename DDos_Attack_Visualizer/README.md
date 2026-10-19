@@ -97,7 +97,7 @@ Generated flows are returned as structured `pandas.DataFrame` objects.
 
 This project uses the following approximation:
 
-$$ P(origin, target \mid 15m) pprox P(origin, target \mid 1h) $$
+$$ P(origin, target \mid 15m) \(\approx\) P(origin, target \mid 1h) $$
 
 ### Why this assumption exists
 
