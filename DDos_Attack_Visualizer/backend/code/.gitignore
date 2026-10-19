@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+API_Token.env
+cache/
+recent_flows.csv
